@@ -1,0 +1,5 @@
+source: https://robolectric.org/writing-a-test/
+
+error: android.content.res.Resources$NotFoundException: Resource ID #0x7f070055
+MainActivity at 10
+MainActivityTest at 18
